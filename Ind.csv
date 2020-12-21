@@ -1,0 +1,13 @@
+﻿a,description,gen,eld,D23,ful,nee,veh,dif,hel
+a1,Commuting,0,0,0,1,1,0,0,0
+a2,Pick-up and drop-off,0,0,0,0,0,1,0,0
+a3,Hospital visit,0,0,0,0,0,0,0,0
+a4,Shopping for food and necessities,0,0,0,0,0,0,1,0
+a5,Get take-out food at restaurants,0,1,0,0,0,0,0,1
+a6,Shopping for others,0,0,0,0,0,0,0,1
+a7,Eat and drink for socializing,0,0,0,0,0,0,0,1
+a8,Eat and drink for others,0,0,0,0,0,0,0,0
+a9,Indoor amusement,0,0,0,0,0,0,0,1
+a10,Individual outdoor activity,0,0,0,0,0,0,0,0
+a11,Group outdoor activity,0,0,0,0,0,0,0,1
+a12,Use essential services,0,0,0,0,0,0,0,0
